@@ -1,0 +1,31 @@
+# mikroC generated files
+*.hex
+*.mcl
+*.brk
+*.dbg
+*.dct
+*.lst
+*.asm
+*.cfg
+*.ini
+*.log
+
+# Build and output directories
+Debug/
+Release/
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
